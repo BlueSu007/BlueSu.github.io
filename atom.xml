@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlueSu007.github.io</id>
     <title>BlueSu&apos;s Blog</title>
-    <updated>2021-01-16T13:59:45.916Z</updated>
+    <updated>2021-10-18T23:15:37.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BlueSu007.github.io"/>
     <link rel="self" href="https://BlueSu007.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://BlueSu007.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, BlueSu&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[The Function's Usage]]></title>
+        <title type="html"><![CDATA[Code & Algorithm Jottings]]></title>
         <id>https://BlueSu007.github.io/post/the-functions-usage/</id>
         <link href="https://BlueSu007.github.io/post/the-functions-usage/">
         </link>
